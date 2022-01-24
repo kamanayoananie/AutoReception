@@ -1,0 +1,2 @@
+# AutoReception
+Hospital automatic reception
